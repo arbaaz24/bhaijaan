@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){	
-	cout<<"i am now in DUSRATESTING";
-   cout<<"this line will give u error";	
+cout<<"\nenter array size:";
+int n;
+cin>>n;
+cout<<n+10000000<<endl;
 }
